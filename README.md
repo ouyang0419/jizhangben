@@ -7,7 +7,7 @@
 ## 技术
 
 - 页面：HTML、CSS、JavaScript
-- 客户端：Capacitor Android，包名 `com.yunduo.ledger`
+- 客户端：Capacitor Android，包名 `com.ouyang.ledger`
 - 数据：账本存在 `localStorage`，背景图存在 IndexedDB
 
 ## 本地运行
