@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "com.yunduo.ledger"
+    namespace = "com.ouyang.ledger"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.yunduo.ledger"
+        applicationId "com.ouyang.ledger"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2
