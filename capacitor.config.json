@@ -1,9 +1,0 @@
-{
-  "appId": "com.ouyang.ledger",
-  "appName": "记账本",
-  "webDir": "www",
-  "backgroundColor": "#F7F9FA",
-  "android": {
-    "backgroundColor": "#F7F9FA"
-  }
-}
