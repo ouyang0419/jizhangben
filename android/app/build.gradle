@@ -1,14 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "com.yunduo.ledger"
+    namespace = "com.ouyang.ledger"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.yunduo.ledger"
+        applicationId "com.ouyang.ledger"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
-        versionName "1.1"
+        versionCode 3
+        versionName "1.2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.

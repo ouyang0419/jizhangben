@@ -1,4 +1,4 @@
-const CACHE = 'ledger-v13'
+const CACHE = 'ledger-v14'
 const ASSETS = ['./', './index.html', './styles.css', './app.js', './icon.svg', './manifest.webmanifest']
 
 self.addEventListener('install', (event) => {
